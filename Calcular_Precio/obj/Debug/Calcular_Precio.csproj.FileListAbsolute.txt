@@ -1,0 +1,10 @@
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\bin\Debug\Calcular_Precio.exe.config
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\bin\Debug\Calcular_Precio.exe
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\bin\Debug\Calcular_Precio.pdb
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.csproj.AssemblyReference.cache
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.Form1.resources
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.Properties.Resources.resources
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.csproj.GenerateResource.cache
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.csproj.CoreCompileInputs.cache
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.exe
+C:\Users\Tms-n\source\repos\Calcular_Precio\Calcular_Precio\obj\Debug\Calcular_Precio.pdb
