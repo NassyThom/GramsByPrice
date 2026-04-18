@@ -14,6 +14,7 @@ namespace Calcular_Precio
 	  Gramos25=25,
 	  Gramos50=50,
 	  Gramos100=100,
-	  Cuatos3=Cuarto*3
+	  Cuatos3=Cuarto*3,
+	  Kilos5=Kilo*5
 	}
 }
