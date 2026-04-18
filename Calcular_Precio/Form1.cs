@@ -70,8 +70,9 @@ namespace Calcular_Precio
 		/// <param name="costo">Costo equivalente por kilo</param>
 		private void LlenarGridView(int kilo, int unidad, int costo)
 		{
+			int Kilos = unidad > kilo ? unidad : kilo;
 			List<clsCantidadPrecio> lstCantidadPrecio = new List<clsCantidadPrecio>();
-			for (int i = 1; i <= (kilo / unidad); i++)
+			for (int i = 1; i <= (Kilos / unidad); i++)
 			{
 				lstCantidadPrecio.Add(new clsCantidadPrecio() { Costo = Convert.ToInt32(Convert.ToDecimal(costo) / Convert.ToDecimal(kilo) * (i * unidad)), Gramos = i * unidad });
 			}
@@ -103,6 +104,9 @@ namespace Calcular_Precio
 					break;
 				case "Medio":
 					Caso = (int)EnumUnidades.Medio;
+					break;
+				case "5 Kilos":
+					Caso = (int)EnumUnidades.Kilos5;
 					break;
 				default:
 					Caso = (int)EnumUnidades.Gramos100;
